@@ -66,7 +66,7 @@ function toggleUFO(){
 
 const gravity = 5;
 const ufoimg = new Image();
-ufoimg.src = "ufo.gif";
+ufoimg.src = "UFO.gif";
 
 const sparkleimg = new Image();
 sparkleimg.src = "sparkle.png";
